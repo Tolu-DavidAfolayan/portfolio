@@ -1,3 +1,7 @@
+---
+title: "Hi, I'm David Afolayan"
+---
+
 # Data Analyst & Quality Assurance Engineer
 
 ### Introduction

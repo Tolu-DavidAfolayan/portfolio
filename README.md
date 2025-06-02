@@ -17,4 +17,4 @@ Feel Free to explore my [Resume]()
 
 ## Contact Me
 
-Connect with me on [LinkedIn], [Twitter], or reach out via [Email]
+Connect with me on [LinkedIn](), [Twitter](), or reach out via [Email]()

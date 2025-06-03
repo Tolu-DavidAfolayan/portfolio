@@ -1,33 +1,6 @@
-title: "DAVID AFOLAYAN"
-email: your@email.com
-description: >-
-  Data and Business Intelligence Analyst | QA Engineer | Passionate about solving real-world problems with data
-baseurl: "" # don’t change unless in a subfolder
-url: "https://tolu-davidafolayan.github.io"
-
-theme: minimal-mistakes-jekyll
-
-plugins:
-  - jekyll-include-cache
-
-# Author profile (sidebar)
-author:
-  name: "David Afolayan"
-  avatar: "/assets/images/avatar.png"
-  bio: "Data Analyst & QA Engineer passionate about transforming business problems into data-driven solutions."
-  location: "Nigeria"
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin"
-      url: "https://www.linkedin.com/in/YOUR-USERNAME"
-    - label: "Twitter"
-      icon: "fab fa-twitter"
-      url: "https://twitter.com/YOUR-USERNAME"
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/tolu-DavidAfolayan"
-
-# Enable sidebar
-sidebar:
-  nav: "sidebar-nav"
-  sticky: true
+title: DAVID AFOLAYAN
+#logo: 
+description: DATA AND BUSINESS INTELLIGENCE ANALYST
+show_download: true
+theme: jekyll-theme-minimal
+css: /asset/style.css

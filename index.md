@@ -5,9 +5,7 @@ title: "Hi, I'm David Afolayan"
 # Data Analyst & Quality Assurance Engineer
 
 ## Introduction
-A driven and analytical professional, I excel at bridging the gap between raw data and practical business solutions.
-My expertise lies in both Data Analysis and Business Analysis, complemented by a background in QA Engineering, where I'm passionate about uncovering clear, actionable insights that truly inform strategic decisions, boost performance, and support stakeholder decision-making. 
-Committed to continuous learning and application of advanced techniques as an active member of the DSN community, I am dedicated to leveraging data to solve real-world problems and deliver tangible results.
+I'm an analytical professional bridging data and business solutions, excelling in Data Analysis, Business Analysis, and QA Engineering. I'm passionate about delivering actionable insights that drive strategic decisions and boost performance. As an active DSN community member, I'm committed to continuous learning and applying advanced techniques to solve real-world problems.
 
 ## Resume
 Feel Free to explore my [Resume](https://drive.google.com/file/d/1ncgldoHaIthK-pz-hVEnbk_JJ42p4itk/view?usp=sharing)

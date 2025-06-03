@@ -4,15 +4,29 @@ title: "Hi, I'm David Afolayan"
 
 # Data Analyst & Quality Assurance Engineer
 
-# Introduction
-I'm an analytical professional bridging data and business solutions, excelling in Data Analysis, Business Analysis, and QA Engineering. I'm passionate about delivering actionable insights that drive strategic decisions and boost performance. As an active DSN community member, I'm committed to continuous learning and applying advanced techniques to solve real-world problems.
+---
 
-# Resume
-Feel Free to explore my [Resume](https://drive.google.com/file/d/1ncgldoHaIthK-pz-hVEnbk_JJ42p4itk/view?usp=sharing)
+## Introduction
+I'm an analytical professional bridging data and business solutions, excelling in **Data Analysis**, **Business Analysis**, and **QA Engineering**. I'm passionate about delivering actionable insights that drive strategic decisions and boost performance. As an active DSN community member, I'm committed to continuous learning and applying advanced techniques to solve real-world problems.
 
-# Project
+---
 
-### BMW Car Sales Report 
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL_HERE)
+[![Kaggle](https://img.shields.io/badge/Kaggle-21BBD7?style=for-the-badge&logo=kaggle&logoColor=white)](YOUR_KAGGLE_PROFILE_URL_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_ADDRESS_HERE)
+
+---
+
+## Resume
+Feel free to explore my [Resume](https://drive.google.com/file/d/1ncgldoHaIthK-pz-hVEnbk_JJ42p4itk/view?usp=sharing).
+
+---
+
+## Projects
+
+### BMW Car Sales Report 
 
 ![Dashboard](asset/BMW CAR SALES DASHBOARD.png)
 
@@ -21,6 +35,8 @@ This Power BI dashboard offers a comprehensive view of BMW's global sales from 2
 **Tools Used:** Power BI, CSV
 
 [View Full Project](https://github.com/Tolu-DavidAfolayan/BMW_CAR_SALES)
+
+---
 
 ### Retail Transaction Analysis
 
@@ -32,7 +48,9 @@ This project analyzes retail transaction data from 2009-2011 using Python librar
 
 [View Full Project](https://github.com/Tolu-DavidAfolayan/Retail-Transaction-Data)
 
-### Telco Customer Retention 
+---
+
+### Telco Customer Retention 
 
 ![Dashboard](asset/TELCO CUSTOMER RETENTION REPORT.png)
 
@@ -42,25 +60,25 @@ This Power BI dashboard offers a comprehensive solution for Telco Customer Churn
 
 [View Full Project](https://github.com/Tolu-DavidAfolayan/Telco_customer_retention_analysis)
 
+---
+
 ### World Cup Analytics
 
 ![Dashboard](asset/2022 world cup.jpg)
 
 This SQL project analyzed the FIFA World Cup 2022 data. I structured the database, created functions and views for efficient data access, and performed in-depth group, match, and squad analysis. This work focused on performance optimization and extracting actionable insights from the tournament's statistics.
 
-**Tools Used:** SQL (PostgreSQL,), Database Management System (DBMS)
+**Tools Used:** SQL (PostgreSQL), Database Management System (DBMS)
 
 [View Full Project](https://github.com/Tolu-DavidAfolayan/SQL-Scripts-for-Comprehensive-World-Cup-Analytics)
+
+---
 
 ### E-commerce Analytics
 
 ![Dashboard](asset/E-Commerce.jpeg)
-This project analyzes e-commerce transaction data, performing comprehensive data wrangling, exploratory data analysis, and predictive modeling. I developed a Random Forest Classifier to predict delivery status, achieving 95% accuracy. Key insights include monthly sales trends, shipping type distribution, and feature importance for delivery prediction.
+This project analyzes e-commerce transaction data, performing comprehensive data wrangling, exploratory data analysis, and predictive modeling. I developed a Random Forest Classifier to predict delivery status, achieving **95% accuracy**. Key insights include monthly sales trends, shipping type distribution, and feature importance for delivery prediction.
 
 **Tools Used:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly)
 
 [View Full Project](https://github.com/Tolu-DavidAfolayan/E_Commerce_Dataset)
-
-# Contact Me
-
-Connect with me on [LinkedIn](https://www.linkedin.com/in/afolayan-tolulope/), [Kaggle](https://www.kaggle.com/davidafolayan), or reach out via [Email](mailto:david4afolayan@gmail.com)

@@ -11,8 +11,18 @@ A driven and analytical professional, I excel at bridging the gap between raw da
 Feel Free to explore my [Resume]()
 
 ## Project
-### BMW CAR SALES
-![Dashboard](Assets/BMW CAR SALES DASHBOARD.png)
+### BMW Car Sales Report 
+![Dashboard](asset/BMW CAR SALES DASHBOARD.png)
+
+
+### Telco Customer Retention Report
+![Dashboard](asset/TELCO CUSTOMER RETENTION REPORT.png)
+
+### Hospitality Reports
+![Dashboard](asset/Hospitality Dashboard.png)
+
+### HR Analytics
+![Dashboard](asset/HR Analytics Dashboards.png)
 
 
 ## Contact Me

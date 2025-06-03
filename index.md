@@ -27,7 +27,7 @@ Feel Free to explore my [Resume]()
 
 
 ### E-commerce Analytics
-![Dashboard](asset/E-Commerce.JPEG)
+![Dashboard](asset/E-Commerce.jpeg)
 
 
 ## Contact Me

@@ -1,6 +1,50 @@
-title: DAVID AFOLAYAN
-#logo: asset/Retail transaction.jpg
-description: DATA AND BUSINESS INTELLIGENCE ANALYST
-show_download: false
+# Site Settings
+title: DAVID AFOLAYAN | Driving Insights, Building Solutions
+email: your.email@example.com # Replace with your actual email
+description: >- # This means to ignore newlines until "baseurl:"
+  A Data Analyst & Quality Assurance Engineer passionate about transforming
+  raw data into actionable business intelligence and ensuring robust, high-quality
+  solutions. Committed to continuous learning and delivering tangible results.
+baseurl: "" # The subpath of your site, e.g. /blog
+url: "https://tolu-davidafolayan.github.io" # The base hostname & protocol for your site, e.g. http://example.com
+
+# Theme Settings
 theme: jekyll-theme-cayman
-css: /asset/style.css
+show_download: false # Set to true if you want the theme's default download buttons
+# Custom CSS for unique styling (make sure this file exists in your repo)
+# This points to asset/style.css inside your GitHub Pages repository
+css: /asset/style.css 
+
+# Favicon - Adds a small icon to your browser tab for uniqueness
+# Place your favicon.ico file in the root of your repository
+favicon: /favicon.ico # Make sure you create and upload a favicon.ico file
+
+# Social Links (optional, but good for Jekyll themes that support them in footers/headers)
+# Some themes automatically render these if defined here.
+social:
+  linkedin: https://www.linkedin.com/in/your-linkedin-profile # Replace with your LinkedIn URL
+  kaggle: https://www.kaggle.com/your-kaggle-profile # Replace with your Kaggle URL
+  github: https://github.com/Tolu-DavidAfolayan # Your GitHub profile URL
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Exclude from processing.
+# The following items will not be processed, by Jekyll.
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Custom properties (optional, you can define your own variables here)
+# For example, if you want a copyright year
+copyright_year: 2023

@@ -1,5 +1,6 @@
 title: DAVID AFOLAYAN
 #logo: 
-#description: text below image
-#show_download: true
+description: DATA AND BUSINESS INTELLIGENCE ANALYST
+show_download: true
 theme: jekyll-theme-minimal
+css: /asset/style.css

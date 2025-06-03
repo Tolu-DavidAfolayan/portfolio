@@ -11,8 +11,8 @@ A driven and analytical professional, I excel at bridging the gap between raw da
 Feel Free to explore my [Resume]()
 
 ## Project
-
-
+### BMW CAR SALES
+![Dashboard](Assets/BMW CAR SALES DASHBOARD.png)
 
 
 ## Contact Me

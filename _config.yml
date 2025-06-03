@@ -4,3 +4,4 @@ description: DATA AND BUSINESS INTELLIGENCE ANALYST
 show_download: true
 theme: jekyll-theme-minimal
 css: /asset/style.css
+include: [_includes]

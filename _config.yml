@@ -1,6 +1,6 @@
 title: DAVID AFOLAYAN
-#logo: 
+logo: asset/Retail transaction.jpg
 description: DATA AND BUSINESS INTELLIGENCE ANALYST
-show_download: true
-theme: jekyll-theme-minimal
+show_download: False
+theme: jekyll-theme-cayman
 css: /asset/style.css

@@ -14,15 +14,20 @@ Feel Free to explore my [Resume]()
 ### BMW Car Sales Report 
 ![Dashboard](asset/BMW CAR SALES DASHBOARD.png)
 
+### Retail Transaction Analysis
+![Dashboard](asset/Retail transaction.jpg)
+
 
 ### Telco Customer Retention Report
 ![Dashboard](asset/TELCO CUSTOMER RETENTION REPORT.png)
 
-### Hospitality Reports
-![Dashboard](asset/Hospitality Dashboard.png)
 
-### HR Analytics
-![Dashboard](asset/HR Analytics Dashboards.png)
+### World Cup Analytics
+![Dashboard](asset/2022 world cup.jpg)
+
+
+### E-commerce Analytics
+![Dashboard](asset/E-Commerce.jpg)
 
 
 ## Contact Me

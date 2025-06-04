@@ -1,7 +1,7 @@
 .project-name {
-    font-size: 2rem; 
+    font-size: 2rem; /* This will make any element with the class 'project-name' larger */
 }
 
 p {
-    text-align: justify;
+    text-align: justify; /* This will attempt to justify all paragraph text */
 }

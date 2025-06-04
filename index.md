@@ -2,12 +2,17 @@
 title: "Hi, I'm David Afolayan"
 ---
 
-## Resume
+# Introduction
+I'm an analytical professional bridging data and business solutions, excelling in Data Analysis, Business Analysis, and QA Engineering. I'm passionate about delivering actionable insights that drive strategic decisions and boost performance. As an active DSN community member, I'm committed to continuous learning and applying advanced techniques to solve real-world problems.
+
+---
+
+# Resume
 Feel free to explore my [Resume](https://drive.google.com/file/d/1ncgldoHaIthK-pz-hVEnbk_JJ42p4itk/view?usp=sharing).
 
 ---
 
-## Projects
+# Projects
 
 ### BMW Car Sales Report 
 
@@ -60,7 +65,7 @@ This project analyzes retail transaction data from 2009-2011 using Python librar
 
 ---
 
-## Connect with Me
+# Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afolayan-tolulope/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-21BBD7?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/davidafolayan)

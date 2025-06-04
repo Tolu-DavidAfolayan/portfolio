@@ -37,7 +37,7 @@ This SQL project analyzed the FIFA World Cup 2022 data. I structured the databas
 ### E-commerce Analytics
 
 ![Dashboard](asset/E-Commerce.jpeg)
-This project analyzes e-commerce transaction data, performing comprehensive data wrangling, exploratory data analysis, and predictive modeling. I developed a Random Forest Classifier to predict delivery status, achieving **95% accuracy**. Key insights include monthly sales trends, shipping type distribution, and feature importance for delivery prediction.
+This project analyzes e-commerce transaction data, performing comprehensive data wrangling, exploratory data analysis, and predictive modeling. I developed a Random Forest Classifier to predict delivery status, achieving 95% accuracy. Key insights include monthly sales trends, shipping type distribution, and feature importance for delivery prediction.
 
 **Tools Used:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly)
 
@@ -62,6 +62,10 @@ This project analyzes retail transaction data from 2009-2011 using Python librar
 **Tools Used:** Python (Pandas, Matplotlib, Seaborn, Scikit-learn), Microsoft Excel
 
 [View Full Project](https://github.com/Tolu-DavidAfolayan/Retail-Transaction-Data)
+
+---
+
+[**Click here to few the rest of my projects**](https://github.com/Tolu-DavidAfolayan)
 
 ---
 

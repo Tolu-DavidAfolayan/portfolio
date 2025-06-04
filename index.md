@@ -55,7 +55,7 @@ This Power BI dashboard offers a comprehensive solution for Telco Customer Churn
 
 ### Retail Transaction Analysis
 
-![Dashboard](asset/Retail transaction.jpg)
+![Dashboard](asset/Retail transaction.png)
 
 This project analyzes retail transaction data from 2009-2011 using Python libraries like Pandas, Matplotlib, and Scikit-learn. I performed data wrangling, exploratory data analysis (EDA) to uncover sales trends, and customer segmentation using K-Means, DBSCAN, and Hierarchical clustering. The insights provide actionable strategies for optimizing inventory, retaining high-value customers, and improving overall business performance.
 

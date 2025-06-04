@@ -1,15 +1,6 @@
 ---
 title: "Hi, I'm David Afolayan"
 ---
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afolayan-tolulope/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-21BBD7?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/davidafolayan)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david4afolayan@gmail.com)
-
----
-
 ## Resume
 Feel free to explore my [Resume](https://drive.google.com/file/d/1ncgldoHaIthK-pz-hVEnbk_JJ42p4itk/view?usp=sharing).
 
@@ -73,3 +64,13 @@ This project analyzes e-commerce transaction data, performing comprehensive data
 **Tools Used:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly)
 
 [View Full Project](https://github.com/Tolu-DavidAfolayan/E_Commerce_Dataset)
+
+---
+
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afolayan-tolulope/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-21BBD7?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/davidafolayan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:david4afolayan@gmail.com)
+
+---

@@ -65,7 +65,7 @@ This project analyzes retail transaction data from 2009-2011 using Python librar
 
 ---
 
-[**Click here to few the rest of my projects**](https://github.com/Tolu-DavidAfolayan)
+[**...Click here to few the rest of my projects**](https://github.com/Tolu-DavidAfolayan)
 
 ---
 

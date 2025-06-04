@@ -1,6 +1,7 @@
 ---
 title: "Hi, I'm David Afolayan"
 ---
+
 ## Resume
 Feel free to explore my [Resume](https://drive.google.com/file/d/1ncgldoHaIthK-pz-hVEnbk_JJ42p4itk/view?usp=sharing).
 
@@ -18,19 +19,24 @@ This Power BI dashboard offers a comprehensive view of BMW's global sales from 2
 
 [View Full Project](https://github.com/Tolu-DavidAfolayan/BMW_CAR_SALES)
 
----
+### World Cup Analytics
 
-### Retail Transaction Analysis
+![Dashboard](asset/2022 world cup.jpg)
 
-![Dashboard](asset/Retail transaction.jpg)
+This SQL project analyzed the FIFA World Cup 2022 data. I structured the database, created functions and views for efficient data access, and performed in-depth group, match, and squad analysis. This work focused on performance optimization and extracting actionable insights from the tournament's statistics.
 
-This project analyzes retail transaction data from 2009-2011 using Python libraries like Pandas, Matplotlib, and Scikit-learn. I performed data wrangling, exploratory data analysis (EDA) to uncover sales trends, and customer segmentation using K-Means, DBSCAN, and Hierarchical clustering. The insights provide actionable strategies for optimizing inventory, retaining high-value customers, and improving overall business performance.
+**Tools Used:** SQL (PostgreSQL), Database Management System (DBMS)
 
-**Tools Used:** Python (Pandas, Matplotlib, Seaborn, Scikit-learn), Microsoft Excel
+[View Full Project](https://github.com/Tolu-DavidAfolayan/SQL-Scripts-for-Comprehensive-World-Cup-Analytics)
 
-[View Full Project](https://github.com/Tolu-DavidAfolayan/Retail-Transaction-Data)
+### E-commerce Analytics
 
----
+![Dashboard](asset/E-Commerce.jpeg)
+This project analyzes e-commerce transaction data, performing comprehensive data wrangling, exploratory data analysis, and predictive modeling. I developed a Random Forest Classifier to predict delivery status, achieving **95% accuracy**. Key insights include monthly sales trends, shipping type distribution, and feature importance for delivery prediction.
+
+**Tools Used:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly)
+
+[View Full Project](https://github.com/Tolu-DavidAfolayan/E_Commerce_Dataset)
 
 ### Telco Customer Retention 
 
@@ -42,28 +48,15 @@ This Power BI dashboard offers a comprehensive solution for Telco Customer Churn
 
 [View Full Project](https://github.com/Tolu-DavidAfolayan/Telco_customer_retention_analysis)
 
----
+### Retail Transaction Analysis
 
-### World Cup Analytics
+![Dashboard](asset/Retail transaction.jpg)
 
-![Dashboard](asset/2022 world cup.jpg)
+This project analyzes retail transaction data from 2009-2011 using Python libraries like Pandas, Matplotlib, and Scikit-learn. I performed data wrangling, exploratory data analysis (EDA) to uncover sales trends, and customer segmentation using K-Means, DBSCAN, and Hierarchical clustering. The insights provide actionable strategies for optimizing inventory, retaining high-value customers, and improving overall business performance.
 
-This SQL project analyzed the FIFA World Cup 2022 data. I structured the database, created functions and views for efficient data access, and performed in-depth group, match, and squad analysis. This work focused on performance optimization and extracting actionable insights from the tournament's statistics.
+**Tools Used:** Python (Pandas, Matplotlib, Seaborn, Scikit-learn), Microsoft Excel
 
-**Tools Used:** SQL (PostgreSQL), Database Management System (DBMS)
-
-[View Full Project](https://github.com/Tolu-DavidAfolayan/SQL-Scripts-for-Comprehensive-World-Cup-Analytics)
-
----
-
-### E-commerce Analytics
-
-![Dashboard](asset/E-Commerce.jpeg)
-This project analyzes e-commerce transaction data, performing comprehensive data wrangling, exploratory data analysis, and predictive modeling. I developed a Random Forest Classifier to predict delivery status, achieving **95% accuracy**. Key insights include monthly sales trends, shipping type distribution, and feature importance for delivery prediction.
-
-**Tools Used:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Plotly)
-
-[View Full Project](https://github.com/Tolu-DavidAfolayan/E_Commerce_Dataset)
+[View Full Project](https://github.com/Tolu-DavidAfolayan/Retail-Transaction-Data)
 
 ---
 

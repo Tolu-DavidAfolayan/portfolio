@@ -1,5 +1,6 @@
 title: "DAVID AFOLAYAN"
 #logo: asset/Retail transaction.jpg
 description: "Data Analyst and Quality Assurance Engineer"
-theme: jekyll-theme-minimal
-css: asset/style.css
+show_downloads: false
+theme: jekyll-theme-cayman
+css: /asset/style.css

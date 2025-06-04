@@ -1,6 +1,6 @@
 title: DAVID AFOLAYAN
 #logo: asset/Retail transaction.jpg
-description: I'm an analytical professional bridging data and business solutions, excelling in **Data Analysis**, **Business Analysis**, and **QA Engineering**. I'm passionate about delivering actionable insights that drive strategic decisions and boost performance. As an active DSN community member, I'm committed to continuous learning and applying advanced techniques to solve real-world problems.
+description: I'm an analytical professional bridging data and business solutions, excelling in Data Analysis, Business Analysis, and QA Engineering. I'm passionate about delivering actionable insights that drive strategic decisions and boost performance. As an active DSN community member, I'm committed to continuous learning and applying advanced techniques to solve real-world problems.
 show_download: false
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 css: /asset/style.css

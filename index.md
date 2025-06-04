@@ -2,10 +2,6 @@
 title: "Hi, I'm David Afolayan"
 ---
 
-# Data Analyst & Quality Assurance Engineer
-
----
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/afolayan-tolulope/)
